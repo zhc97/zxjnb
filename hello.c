@@ -1,7 +1,9 @@
 #include<stdio.h>
 
 int main(void){
-printf("hello1234\n");
+
+printf("hello\n");
+
 return 0;
 
 }
